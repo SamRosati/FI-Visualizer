@@ -5,7 +5,7 @@
   <br>
   <em>(Note: Logo adapts to Light/Dark mode settings)</em>
   <br><br>
-  <a href="INSERT_YOUR_GITHUB_PAGES_LINK_HERE">
+  <a href="https://samrosati.github.io/FI-Visualizer/">
     <img src="https://img.shields.io/badge/View_Live_Demo-007aff?style=for-the-badge&logo=github&logoColor=white" alt="View Live Demo" />
   </a>
 </div>
