@@ -1,7 +1,7 @@
 # Financial Independence Visualizer
 
 <div align="center">
-  <img src="FIVLogoLight.png" alt="FI Visualizer Logo" width="200" />
+  <img src="FIVLogoDark.png" alt="FI Visualizer Logo" width="200" />
   <br>
   <em>(Note: Logo adapts to Light/Dark mode settings)</em>
   <br><br>
